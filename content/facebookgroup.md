@@ -1,5 +1,6 @@
 ---
-title: "Facebook Groups"
+title: Facebook Groups
+menu: main
 ---
 We choose to discuss and share online with one another via Facebook Groups, rather than by way of the email list. We apologize if you don't want to set up a Facebook account and thus get left out of this part of our interaction with one another. You are not alone in this preference. Happily you'll have all the more to share when we meet face to face at one or more of our regularly scheduled singings.
 

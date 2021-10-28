@@ -1,5 +1,6 @@
 ---
 title: Projects
+menu: main
 ---
 ## Local Music Camp
 PNWSHS is launching a Music Camp, to be held in 2018 in Alaska, the year after in the Seattle-Portland region, and in the year after that in the Oakland CA region. Then the schedule begins over again. The camp will teach and sing from the Cooper Sacred Harp with the typical sorts of teaching sessions on Rudiments, Leading, Accenting, Keying, All-Day Singing topics, and so forth. The specifics will be driven by the needs of the local region. For now, the title of the music camp is Fasola Boot Camp. (Alternative suggestions are solicited).

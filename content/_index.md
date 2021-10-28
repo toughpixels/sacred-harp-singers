@@ -1,5 +1,6 @@
 ---
 title: Home of the Pacific Northwest Sacred Harp Singers
+menu: main
 ---
 
 This is the website for Sacred Harp singing in Washington State (and a bit beyond). Sacred Harp singing is a traditional American form of community singing, without instruments, in four vocal parts, using the tunebook *The Sacred Harp* which is printed in shapenotes. By this is meant that the noteheads in the music appear as one of four different shapes (the simple oval, a square, a right-sided triangle, and a diamond).

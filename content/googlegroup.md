@@ -1,5 +1,6 @@
 ---
 title: "Our Email List"
+menu: main
 ---
 
 Our Email List

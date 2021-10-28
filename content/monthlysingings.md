@@ -1,5 +1,6 @@
 ---
 title: All Day Singings
+menu: main
 ---
 
 To avoid constantly updating calendar dates for our events, each singing relies on a formula. The most commonly employed, for example, is to say that a singing meets on the 1st or 2nd, etc., Sunday of each month. A casual glance at a calendar lets one immediately know whether that particular singing is happening on the upcoming Sunday. Similarly with the other date formulas. This technique is one we learned from traditional Sacred Harp singings which have been using it since forever (roughly speaking).

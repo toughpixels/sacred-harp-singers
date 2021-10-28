@@ -1,5 +1,6 @@
 ---
 title: Related Websites
+menu: main
 ---
 
 There is an entire world of websites for Sacred Harp and shapenote music. Here are a few that are important to us:
