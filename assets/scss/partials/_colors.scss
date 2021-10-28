@@ -4,9 +4,18 @@
   --selected: red;
   --dark: rgb(1, 0, 78);
   --gold: #dfc481;
+  --red: #57292c;
 }
 
 .bg-dark {
   color: var(--light);
   background-color: var(--dark);
+}
+
+.gold {
+  fill: var(--gold);
+}
+
+.red {
+  background-color: var(--red);
 }
