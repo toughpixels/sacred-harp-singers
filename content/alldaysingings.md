@@ -2,27 +2,30 @@
 title: All Day Singings
 ---
 
-All-Day Singing doors generally open to attendees at 9:00 a.m., and singing starts promptly at 9:30 a.m. There is a potluck meal at noon, called "Dinner-on-the-Ground", (see under "Guides & Tutorials" for more) and singing resumes at 1:00 p.m. Things wrap up about 2:30 or 3:00 p.m. each day. There is no admission charged (though a freewill offering is collected to pay the rent for the venue and the miscellaneous expenses of putting on the event), and anyone may wander in off the street to join us. Songbooks are available for loan, and for sale. There are also usually singing-related items for sale. Travellers are invited to arrange for housing with local singers - email us (see below).
-3rd Sunday and Saturday before in February:
-The Pacific NW Convention-Washington will meet in 2020 at the Ballard Homestead, 6541 Jones Ave NW, Seattle 98117. This is a Denson Book convention. [explanation: the Pacific NW Convention has two sessions, one in the Fall and one in the Spring.] In 2020 for general questions send email to chair@PacificNWSacredHarpSingers.org and if you need to find housing with a local singer send email to conventionhousing@PacificNWSacredHarpSingers.org
+All-Day Singing doors generally open to attendees at 9:00 a.m., and singing starts promptly at 9:30 a.m. There is a potluck meal at noon, called *Dinner-on-the-Ground*, (click here for more) and singing resumes at 1:00 p.m. Things wrap up about 2:30 or 3:00 p.m. each day. There is no admission charged (though a freewill offering is collected to pay the rent for the venue and the miscellaneous expenses of putting on the event), and anyone may wander in off the street to join us. Songbooks are available for loan, and for sale. There are also usually singing-related items for sale. Travellers are invited to arrange for housing with local singers - email us (see below).
 
-Saturday before 2nd Sunday in April:
+<details>
+<summary><strong>3rd Sunday and Saturday before in February</strong></summary>
+
+The Pacific NW Convention-Washington will meet in 2020 at the Ballard Homestead, 6541 Jones Ave NW, Seattle 98117. This is a Denson Book convention. [explanation: the Pacific NW Convention has two sessions, one in the Fall and one in the Spring.] In 2020 for general questions send email to chair@PacificNWSacredHarpSingers.org and if you need to find housing with a local singer send email to conventionhousing@PacificNWSacredHarpSingers.org
+</details>
+
+### Saturday before 2nd Sunday in April:
+
 Bainbridge Island All-Day Singing on Bainbridge Island, WA at Seabold Hall, 14450 Komedal Rd NE, Bainbridge Island, WA in 2020. doors open at 9:30 am and singing begins at 10:00 am. This is a Denson book singing. If you plan on coming to the island from Seattle or north, you'll need to be on the Saturday 8:55am ferry, from the Coleman Dock in Seattle, to arrive at the singing on time.
 
 If coming to the island from south of Seattle, it will most likely be fastest to drive onto the island from the west side Agate Pass Bridge.
 
-HOUSING: There will be primitive camping available at Kevin's place. Camping with bathrooms/showers is also available at nearby Fay Bainbridge Park (http://biparks.org/fay-bainbridge-park-campground/). Indoor housing options on the island are mostly limited to hotels or AirBnB. You might also be interested in staying overnight in Seattle with a local Seattle singer and ferrying across. Send all questions and suggestions to the chairman, Kevin Barrans.
+HOUSING: There will be primitive camping available at Kevin's place. Camping with bathrooms/showers is also available at nearby [Fay Bainbridge Park](http://biparks.org/fay-bainbridge-park-campground/ "Park details and directions"). Indoor housing options on the island are mostly limited to hotels or AirBnB. You might also be interested in staying overnight in Seattle with a local Seattle singer and ferrying across. Send all questions and suggestions to the chairman, Kevin Barrans.
 1st Sunday and Saturday before in May:
 Portland Double-All-Day met in 2019 at The Little Church, 5138 NE 23rd Ave. On Saturday the Denson book is used, and on Sunday The Christian Harmony is used.
 
-Saturday before 1st Sunday in June:
-The Vancouver All-Day Sacred Harp Singing will meet in 2019 on June 1 at Grandview Church, 1803 East 1st Ave. Doors open at 9:00 am and singing goes til three-ish. Denson Sacred Harp. This singing's future dates are in flux. For more info, email van.sacredharp@gmail
+### Saturday before 1st Sunday in June:
 
-Saturday before 3rd Sunday in June:
-The Morton All-Day Singing will meet in 2020 at the Tiller Arts Center, 239 W. Main St., Morton, WA. Doors open at 9:00 am and singing goes til 3:00 pm. Dinner on the Grounds at noon; this is a Denson Book singing. Friday night camping and Saturday night social at the Fortin family home in Randle (maps at the singing). The future dates of this singing are in flux. Stay tuned.
-Saturday before 5th Sunday in June 2019:
-The Willamette All-Day Singing will meet June 29 at the Fairfield Grange, 13651 River Rd NE, Gervais, Oregon. Doors open at 9:00 am and singing goes til 3:00 pm. Denson Sacred Harp. The future dates of this singing are in flux. Stay tuned.
-1st Saturday after Independence Day in July:
+The Vancouver All-Day Sacred Harp Singing will meet in 2019 on June 1 at Grandview Church, 1803 East 1st Ave. Doors open at 9:00 am and singing goes til three-ish. Denson Sacred Harp. This singing's future dates are in flux. For more info, email van.sacredharp at gmail
+
+### 1st Saturday after Independence Day in July:
+
 The Wallowa Valley All-Day Singing will be held Saturday, July 6, 2019 at the Hurricane Creek Grange Hall (63081 Hurricane Creek Rd, Joseph OR 97846) from 9:30-3:00; Denson Sacred Harp. Contact wallowa@pacificNWsacredharpsingers.org for information about housing and camping, and other area activities.
 1st Saturday in August:
 The all-day singing in Eugene used to bounce back and forth between a late Saturday in July and an early Saturday in August. The new formula fixes their singing on whenever the first Saturday of August occurs, which in 2019 will be August 3, a Denson Book singing. NEW LOCATION United Lutheran Church, 2230 Washington St. (corner of Washington St. and 22rd Ave), Eugene. * Register at 9, sing from 9:30 till after 3 PM, with potluck lunch from noon to 1 PM.

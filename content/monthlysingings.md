@@ -20,7 +20,6 @@ Vancouver BC Canada - at Grandview Calvary Baptist Church, 1803 E. 1st Ave (at S
 3rd Friday:
 West Seattle - at 8609 24th Ave SW. Come anytime after 5 pm as supper starts at 5:45 (bring a donation for the cook) and singing is from 7:00 to 9:00 p.m. Cooper SH. No offering. Note: don't let the formula trip you up as to when this singing occurs. This singing will not meet in January or February or October 2019.
 3rd Saturday:
-Auburn - This singing is on hiatus.
 Port Townsend - This singing is on hiatus.
 Victoria BC Canada - at St. Philip Anglican Church, 2928 Eastdowne Rd., Victoria, from 10 a.m. to noon using the Denson book. (Please leave cell phones and perfume behind.) Email:  vanislesacredharp@gmail.com ; website:  https://victoriasacredharp.wordpress.com/
 Saturday Before 3rd Sunday:
