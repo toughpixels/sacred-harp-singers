@@ -1,14 +1,15 @@
 baseURL = "http://example.com"
 languageCode = "en-us"
-title = ""
+title = "Pacific Northwest Sacred Harp Singers"
 theme = "base"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 [params]
-  description = "A starter website for the Hugo framework."
-  title = "My Basic Website"
+  description = "Sacred Harp Singing in the Pacific Northwest."
+  title = "Pacific Northwest Sacred Harp Singers"
+  shortTitle = "PCNWSHS"
   headerImage  = "images/header.png"
   author = "Tough Pixels"
   imageSizes = "1280 768 640 320"
