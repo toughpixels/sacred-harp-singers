@@ -1,5 +1,5 @@
 ---
-title: All Day Singings
+title: Monthly Singings
 menu: main
 ---
 
