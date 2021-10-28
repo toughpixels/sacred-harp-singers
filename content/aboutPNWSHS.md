@@ -1,5 +1,6 @@
 ---
 title: About PNWSHS, Inc.
+menu: main
 ---
 
 The Pacific Northwest Sacred Harp Singers, Incorporated was established as a non-profit corporation in Washington State on 27 October 1992. It has also qualified as a state charity with the Secretary of State. It is not a 501(c)3 corporation with the IRS.

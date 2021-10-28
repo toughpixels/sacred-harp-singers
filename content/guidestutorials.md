@@ -1,5 +1,6 @@
 ---
 title: Guides and Tutorials
+menu: main
 ---
 
 ## Guides
