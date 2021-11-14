@@ -1,8 +1,14 @@
 .px-sm {
   padding: 0 1rem;
 }
+
 .p-sm {
   padding: 1rem;
+}
+
+.pv-sm {
+  padding-top: var(--sm-space);
+  padding-bottom: var(--sm-space);
 }
 
 .py-sm {

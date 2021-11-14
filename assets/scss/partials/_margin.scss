@@ -1,6 +1,15 @@
-.mx-auto {
+.m-auto {
     margin-right: auto;
     margin-left: auto;
+}
+
+.mv-sm {
+    margin-top: var(--sm-space);
+    margin-bottom: var(--sm-space);
+}
+
+.ma-sm {
+    margin: var(--sm-space);
 }
 
 .space-y-sm > * + * {

@@ -1,0 +1,14 @@
+.nav-item {
+    color: var(--gold);
+    border-radius: var(--sm-space);
+}
+
+.nav-item:hover, .nav-item:focus {
+    color: var(--red);
+    background-color: var(--gold);
+}
+
+.nav-container {
+    border-bottom: var(--sm-border) solid var(--gold);
+    border-top: var(--sm-border) solid var(--gold);
+}

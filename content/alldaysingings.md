@@ -1,6 +1,8 @@
 ---
 title: All Day Singings
-menu: main
+menu:
+  singing:
+    - name: All Day
 ---
 
 All-Day Singing doors generally open to attendees at 9:00 a.m., and singing starts promptly at 9:30 a.m. There is a potluck meal at noon, called *Dinner-on-the-Ground*, (click here for more) and singing resumes at 1:00 p.m. Things wrap up about 2:30 or 3:00 p.m. each day. There is no admission charged (though a freewill offering is collected to pay the rent for the venue and the miscellaneous expenses of putting on the event), and anyone may wander in off the street to join us. Songbooks are available for loan, and for sale. There are also usually singing-related items for sale. Travellers are invited to arrange for housing with local singers - email us (see below).

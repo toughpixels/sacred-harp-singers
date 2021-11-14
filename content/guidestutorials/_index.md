@@ -1,6 +1,8 @@
 ---
 title: Guides and Tutorials
-menu: main
+menu:
+  main:
+    - name: Guides
 ---
 
 ## Guides
@@ -21,7 +23,7 @@ We hope you find these instructive and useful. First, though, comes the obligato
 - Singing School Workbook This will take you from knowing nothing to the intermediate level of skill. PDF.
 - Primer on Beating Time/Leading This gives you the arm motions, and tips on leading at all-day singings. There is a little bit of overlap with the Singing School Workbook. PDF.
 - Listen to the Leading Lesson from the February 2012 PNW Convention-Washington Session.
-- Accenting Lesson by Matthew Parkinson for the Auvergne France Sacred Harp singers, with links to audio examples.
+- [Accenting Lesson by Matthew Parkinson](https://sacredharpauvergne.wordpress.com/2017/09/04/3182/) for the [Auvergne France Sacred Harp Singers](https://sacredharpauvergne.wordpress.com/), with links to audio examples.
 - Singing Minor Songs and Ignoring Accidentals This is a collection of the reasons for not singing accidentals that are printed in the music and why we sing minor songs with a raised 6th. This topic is included in the Singing School Workbook, but not as thoroughly as here. PDF. *Cooper Sacred Harp minor songs are sung the same way, they're just not in this list.
 - How to Find the 6th in Minor Songs  This handy lesson will teach you how to find the note in minor music that needs to be treated in the Sacred Harp way. Note: there is reference made in the handout to two Denson Sacred Harp songs, not labelled as such. PDF
 - List of Sacred Harp raised 6th Minor songs This is a handy list of the *Denson Sacred Harp songs that are minor and include the sixth note of the minor scale somewhere in the parts. It identifies which staff position the note is on and in which part it appears. PDF

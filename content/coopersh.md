@@ -1,6 +1,8 @@
 ---
 title: Cooper Sacred Harp Books
-menu: main
+menu:
+  main:
+    - name: Books
 ---
 
 ## Particular to Cooper Sacred Harp Stuff

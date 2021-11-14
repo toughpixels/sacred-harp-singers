@@ -1,9 +1,12 @@
 ---
 title: About PNWSHS, Inc.
 menu: main
+menu:
+  main:
+    - name: About
 ---
 
-The Pacific Northwest Sacred Harp Singers, Incorporated was established as a non-profit corporation in Washington State on 27 October 1992. It has also qualified as a state charity with the Secretary of State. It is not a 501(c)3 corporation with the IRS.
+The Pacific Northwest Sacred Harp Singers, Incorporated was established as a non-profit corporation in Washington State on 27 October 1992. It has also qualified as a state charity with the Secretary of State. It is not a *501(c)3* corporation with the IRS.
 
 ## Mission
 Its **Mission** is to organize, improve, expand, and encourage community shapenote singing in the Pacific Northwest through singing school classes, singings, and conventions. It serves as the umbrella organization for all shapenote singings in Washington State, and provides help as needed to shapenote singings in Oregon, Idaho, Montana, British Columbia, and Alaska.

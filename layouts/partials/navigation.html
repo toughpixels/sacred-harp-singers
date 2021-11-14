@@ -1,0 +1,9 @@
+<nav class="flex justify-around w-100 nav-container">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+                <a class="mv-sm nav-item text-center" href="{{ .URL }}">
+                    {{ .Pre }}
+                    <span>{{ .Name }}</span>
+                </a>
+    {{ end }}
+</nav>
