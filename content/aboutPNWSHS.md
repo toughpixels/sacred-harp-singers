@@ -1,6 +1,5 @@
 ---
 title: About PNWSHS, Inc.
-menu: main
 menu:
   main:
     - name: About
