@@ -1,7 +1,7 @@
 ---
 title: "Front Seat Theft"
 aliases:
-    - guidestutorials/FrontSeatTheft.html
+    - /guidestutorials/FrontSeatTheft.html
 menu: guides
 ---
 Dear Miss Grace Notes: I'm skilled enough to sit on the front bench, and at a recent convention I returned to my seat after a few songs' absence to find someone else sitting there. Weren't they being rude? ----Dispossessed and Miffed About It

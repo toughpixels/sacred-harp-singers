@@ -1,7 +1,7 @@
 ---
 title: "Critique of Popular Teaching Illustration"
 aliases:
-    - guidestutorials/acritique.html
+    - /guidestutorials/acritique.html
 menu: guides
 ---
 

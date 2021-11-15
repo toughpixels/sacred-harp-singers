@@ -1,7 +1,7 @@
 ---
 title: "The Front Row"
 aliases:
-    - guidestutorials/FrontRow.html
+    - /guidestutorials/FrontRow.html
 menu: guides
 ---
 

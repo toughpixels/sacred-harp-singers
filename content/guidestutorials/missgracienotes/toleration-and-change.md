@@ -1,7 +1,7 @@
 ---
 title: "Toleration and Change"
 aliases:
-    - guidestutorials/TolerationChange.html
+    - /guidestutorials/TolerationChange.html
 menu: guides
 ---
 

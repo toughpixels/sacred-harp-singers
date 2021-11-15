@@ -14,15 +14,3 @@ theme = "base"
   author = "Tough Pixels"
   imageSizes = "1280 768 640 320"
   imageFormats = "webp jpeg"
-[menu]
-  [[menu.main]]
-    identifier = "main"
-    name       = "Main"
-  [[menu.singing]]
-    parent = "main"
-    identifier = "singing"
-    name       = "Singing"
-  [[menu.guides]]
-    parent = "main"
-    identifier = "guides"
-    name       = "Guides"

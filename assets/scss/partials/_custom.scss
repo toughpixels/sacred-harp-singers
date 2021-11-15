@@ -3,12 +3,33 @@
     border-radius: var(--sm-space);
 }
 
+.home-nav {
+    max-height: var(--logo-height);
+}
+
+.home-nav path {
+    fill: var(--gold);
+}
+
+.home-nav:hover path, .home-nav:focus path {
+    fill: var(--red);
+}
+
 .nav-item:hover, .nav-item:focus {
     color: var(--red);
     background-color: var(--gold);
 }
 
+.nav-active {
+    background-color: var(--blue);
+    color: var(--gold);
+}
+
 .nav-container {
     border-bottom: var(--sm-border) solid var(--gold);
-    border-top: var(--sm-border) solid var(--gold);
+}
+
+.logo {
+    height: 100%;
+    max-width: 100%;
 }

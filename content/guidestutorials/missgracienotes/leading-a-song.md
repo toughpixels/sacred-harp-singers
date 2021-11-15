@@ -1,7 +1,7 @@
 ---
 title: "Leading a Song"
 aliases:
-    - guidestutorials/LeadingASong.html
+    - /guidestutorials/LeadingASong.html
 menu: guides
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Aggressive Front Bench"
 aliases:
-    - guidestutorials/AggressiveFrontBench.html
+    - /guidestutorials/AggressiveFrontBench.html
 menu: guides
 ---
 

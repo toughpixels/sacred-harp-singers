@@ -1,21 +1,14 @@
 :root {
   --light: #fff;
-  --action: blue;
-  --selected: red;
-  --dark: rgb(1, 0, 78);
   --gold: #dfc481;
   --red: #57292c;
-}
-
-.bg-dark {
-  color: var(--light);
-  background-color: var(--dark);
-}
-
-.gold {
-  fill: var(--gold);
+  --blue: rgb(1, 0, 78);
 }
 
 .book-bg {
   background-color: var(--red);
+}
+
+.light-bg {
+  background-color: var(--light);
 }

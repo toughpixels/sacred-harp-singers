@@ -2,7 +2,7 @@
 title: Calendars for Cooper & Denson Sacred Harp Singings
 menu:
   main:
-    - name: Calendar
+    name: Calendar
 ---
 
 This page is still under development...

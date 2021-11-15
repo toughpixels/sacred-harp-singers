@@ -1,7 +1,7 @@
 ---
 title: "The Arranging Committee"
 aliases:
-    - guidestutorials/ArrangingComm.html
+    - /guidestutorials/ArrangingComm.html
 menu: guides
 ---
 

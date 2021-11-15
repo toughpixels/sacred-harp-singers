@@ -1,7 +1,7 @@
 ---
 title: "All Verses and All Repeats"
 aliases:
-    - guidestutorials/AllVersesRepeats.html
+    - /guidestutorials/AllVersesRepeats.html
 menu: guides
 ---
 

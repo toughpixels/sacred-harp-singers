@@ -1,7 +1,7 @@
 ---
 title: "Talking"
 aliases:
-    - guidestutorials/Talking.html
+    - /guidestutorials/Talking.html
 menu: guides
 ---
 

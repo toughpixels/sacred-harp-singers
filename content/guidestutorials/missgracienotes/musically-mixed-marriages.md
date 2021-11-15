@@ -1,7 +1,7 @@
 ---
 title: "Musically Mixed Marriages"
 aliases:
-    - guidestutorials/MixedMarriage.html
+    - /guidestutorials/MixedMarriage.html
 menu: guides
 ---
 

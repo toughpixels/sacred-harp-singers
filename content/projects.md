@@ -25,7 +25,8 @@ To apply for the travel grant submit a statement explaining what singing event t
 10. The grants are given as reimbursements. Receipts or copies of the receipts are required for tuition or travel expenses at least up to the amount of the grant.
 
 Here are two examples of trips that would meet the travel grant guidelines:
-**Example One:** attend Camp Fasola (adult) which ran June 8-12 and all-day singings on June 7, 8, 13, 14, and 15.
+
+- Attend Camp Fasola (adult) which ran June 8-12 and all-day singings on June 7, 8, 13, 14, and 15.
 Airfare round-trip from SEA to BHM travelling on the cheap days of June 5 & 16 = ~$500
 Camp Fasola tuition for under 30 yr old = $250
 Lodging before & after Camp and transportation in Alabama = will arrange to stay with locals and travel with locals
@@ -33,7 +34,7 @@ Amount of travel grant requested: $250
 Personal benefits will be instruction gained at Camp plus experience of 4+ different All-Day Singings.
 Benefit to PNWSHS will be a better-trained singer plus the chance that one or more travelling singers will come to our all-day singing(s) because this Washingtonian attended theirs.
 
-**Example Two:** attend Chattahoochee Sacred Harp Convention that was Aug 2 & 3.
+- Attend Chattahoochee Sacred Harp Convention that was Aug 2 & 3.
 Airfare round-trip from SEA to ATL travelling on cheap days of July 31 & Aug 4 = ~$377
 Lodging before & after and transportation in Atlanta = will arrange to stay with locals and travel with locals
 Amount of travel grant requested: $188

@@ -1,7 +1,7 @@
 ---
 title: "Shared Bottle"
 aliases:
-    - guidestutorials/SharedBottle.html
+    - /guidestutorials/SharedBottle.html
 menu: guides
 ---
 

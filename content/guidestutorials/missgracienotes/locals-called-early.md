@@ -1,7 +1,7 @@
 ---
 title: "Locals Called Early"
 aliases:
-    - guidestutorials/LocalsCalledEarly.html
+    - /guidestutorials/LocalsCalledEarly.html
 menu: guides
 ---
 

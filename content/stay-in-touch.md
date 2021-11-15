@@ -6,7 +6,7 @@ aliases:
     - /googlegroup.html
 menu:
   main:
-    - name: Contact
+    name: Contact
 ---
 There are two main ways we stay in touch, an email list, and Facebook groups. Choose what's most covenient for you, or join both!
 

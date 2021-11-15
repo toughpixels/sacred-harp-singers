@@ -1,7 +1,7 @@
 ---
 title: "Strong Singers Second Row"
 aliases:
-    - guidestutorials/StrongSingers2ndRow.html
+    - /guidestutorials/StrongSingers2ndRow.html
 menu: guides
 ---
 

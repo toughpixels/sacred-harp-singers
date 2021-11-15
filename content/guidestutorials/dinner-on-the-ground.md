@@ -1,7 +1,7 @@
 ---
 title: "Dinner on the Ground"
 aliases:
-    - guidestutorials/DinnerOnGround.html
+    - /guidestutorials/DinnerOnGround.html
 menu: guides
 ---
 

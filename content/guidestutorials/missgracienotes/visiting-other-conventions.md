@@ -1,7 +1,7 @@
 ---
 title: "Visiting Other Conventions"
 aliases:
-    - guidestutorials/VisitingOtherConventions.html
+    - /guidestutorials/VisitingOtherConventions.html
 menu: guides
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Leading Lessons Audio"
 aliases:
-    - guidestutorials/LeadingLessonAudio.html
+    - /guidestutorials/LeadingLessonAudio.html
 menu: guides
 ---
 

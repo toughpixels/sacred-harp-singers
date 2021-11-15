@@ -1,7 +1,7 @@
 ---
 title: "Pitching and Keying a Song"
 aliases:
-    - guidestutorials/PitchingKeying.html
+    - /guidestutorials/PitchingKeying.html
 menu: guides
 ---
 
