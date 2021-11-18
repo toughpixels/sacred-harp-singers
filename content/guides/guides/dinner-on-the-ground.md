@@ -3,6 +3,7 @@ title: "Dinner on the Ground"
 aliases:
     - /guidestutorials/DinnerOnGround.html
 menu: guides
+summary: Say what? Do you really eat off the dirt?
 ---
 
 ## Dinner On The What?

@@ -3,6 +3,7 @@ title: "Your First All Day Singing"
 aliases:
     - /guidestutorials/GuideToAllDay.html
 menu: guides
+summary: This is chock full of great advice and will get you ready for your first all-day singing. You might want to read the warning below, though, as this experience can be life-altering.
 ---
 
 ## A Guide to Pacific Northwest Sacred Harp Conventions for Beginners or; How to Avoid Sticking Out at your First All-Day Singing
