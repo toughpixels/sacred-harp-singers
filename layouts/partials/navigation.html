@@ -2,7 +2,7 @@
     {{ partial "logo.html" . }}
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-            <a class="mv-sm p-sm nav-item text-center
+            <a class="mv-sm p-sm nav-item gold text-center
             {{- if $currentPage.IsMenuCurrent "main" . }} nav-active{{- end }}" href="{{ .URL }}">
                 <span>{{ .Name }}</span>
             </a>
