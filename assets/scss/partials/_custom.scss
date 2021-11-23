@@ -1,5 +1,6 @@
 .nav-item {
     border-radius: var(--sm-space);
+    font-size: var(--emphasis-text);
 }
 
 .home-nav {
@@ -26,6 +27,10 @@
 
 .nav-container {
     border-bottom: var(--sm-border) solid var(--gold);
+}
+
+.footer-container {
+    border-top: var(--sm-border) solid var(--gold);
 }
 
 .logo {
