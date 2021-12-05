@@ -1,21 +1,23 @@
 {{- define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1 class="text-center">{{ .Title }}</h1>
     <div>{{ .Content }}</div>
     {{ range .Sections }}
-        <h2>{{ .Title }}</h2>
-        <h3>Pages</h3>
-        <ul>
-            {{ range .Pages }}
-            <li>
-                <div>
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <div class="di">
-                        {{ .Summary }}
+        <h2 class="text-center">{{ .Title }}</h2>
+        {{ with .Pages }}
+            <h3>Pages</h3>
+            <ul>
+                {{ range . }}
+                <li>
+                    <div>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <div class="di">
+                            {{ .Summary }}
+                        </div>
                     </div>
-                </div>
-            </li>
-            {{ end }}
-        </ul>
+                </li>
+                {{ end }}
+            </ul>
+        {{ end }}
         {{ with .Resources.Match "*.pdf" }}
         <h3>PDFs</h3>
         <ul>

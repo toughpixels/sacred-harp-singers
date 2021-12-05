@@ -1,4 +1,5 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-menu: guides
+date: {{ .Date }}
+draft: true
 ---

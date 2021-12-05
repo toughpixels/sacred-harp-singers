@@ -7,14 +7,14 @@ menu:
 
 There is an entire world of websites for Sacred Harp and shapenote music. Here are a few that are important to us:
 
-[Cooper Sacred Harp](http://www.sacredharpbook.com/)
+- [Cooper Sacred Harp](http://www.sacredharpbook.com/)
 
-[Denson Sacred Harp](http://originalsacredharp.com/)
+- [Denson Sacred Harp](http://originalsacredharp.com/)
 
-[Portland Oregon Sacred Harp](http://portlandsacredharp.org/)
+- [Portland Oregon Sacred Harp](http://portlandsacredharp.org/)
 
-[Eugene Sacred Harp](http://www.eugenesacredharp.org/)
+- [Eugene Sacred Harp](http://www.eugenesacredharp.org/)
 
-[Alaska Sacred Harp](http://sacredharpalaska.org/)
+- [Alaska Sacred Harp](http://sacredharpalaska.org/)
 
-[National Sacred Harp Singing Website](https://fasola.org/)
+- [National Sacred Harp Singing Website](https://fasola.org/)
