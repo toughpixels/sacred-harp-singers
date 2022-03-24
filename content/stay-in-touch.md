@@ -7,6 +7,7 @@ aliases:
 menu:
   main:
     name: Contact
+    weight: 80
 ---
 There are two main ways we stay in touch:
  - An email list

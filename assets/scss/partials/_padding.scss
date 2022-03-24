@@ -17,6 +17,11 @@
   padding-bottom: var(--md-space);
 }
 
+.ph-md {
+  padding-left: var(--md-space);
+  padding-right: var(--md-space);
+}
+
 .py-sm {
   padding: 1rem 0;
   @media screen and (--sm) {

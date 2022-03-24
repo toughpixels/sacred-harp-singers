@@ -1,6 +1,8 @@
 ---
 title: Guides and Tutorials
-menu: main
+menu:
+  main:
+    weight: Guides
 aliases:
     - /guidestutorials/index.html
 ---

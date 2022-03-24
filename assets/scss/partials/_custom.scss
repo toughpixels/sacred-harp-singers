@@ -25,12 +25,13 @@
     color: var(--gold);
 }
 
-.nav-container {
-    border-bottom: var(--sm-border) solid var(--gold);
-}
-
-.footer-container {
-    border-top: var(--sm-border) solid var(--gold);
+header::after, footer::before {
+    content: "";
+    border-top: var(--sm-border) solid var(--silver);
+    border-bottom: var(--sm-border) solid var(--silver);
+    height: 1rem;
+    width: 100%;
+    display: block;
 }
 
 .logo {
