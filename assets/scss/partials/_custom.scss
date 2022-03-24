@@ -6,16 +6,13 @@ nav {
 .nav-item {
     border-radius: var(--sm-space);
     font-size: var(--emphasis-text);
+    color: var(--cta-modified);
 }
 
 .home-nav path {
-    fill: var(--cta-modified);
+    fill: var(--cta);
     stroke: var(--dark);
     stroke-width: 1px;
-}
-
-.home-nav:hover path, .home-nav:focus path {
-    fill: var(--cta);
 }
 
 .nav-item:hover, .nav-item:focus {
@@ -24,7 +21,7 @@ nav {
 }
 
 .nav-item:visited {
-    color: var(--cta-modified);
+    color: var(--cta);
 }
 
 .nav-active {
@@ -32,7 +29,7 @@ nav {
     color: var(--cta);
 }
 
-header::after, header::before, footer::before {
+header::after, footer::after, footer::before {
     content: "";
     border-top: var(--sm-border) solid var(--cta);
     border-bottom: var(--sm-border) solid var(--cta);
