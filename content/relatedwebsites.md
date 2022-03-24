@@ -3,6 +3,7 @@ title: Related Websites
 menu:
   main:
     name: Links
+    weight: 40
 ---
 
 There is an entire world of websites for Sacred Harp and shapenote music. Here are a few that are important to us:

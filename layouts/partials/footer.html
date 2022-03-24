@@ -1,13 +1,15 @@
-<footer class="book-bg footer-container">
-    <div class="flex p-sm w100 justify-center">
-        {{ partial "logo.html" . }}
-    </div>
-    <div class="pv-md text-center gold">
-        <div>Questions? Email us at:</div>
-        <div>
-            <a class="gold nav-item" href="mailto:{{ .Site.Params.contactEmail }}">
-                {{ .Site.Params.contactEmail }}
-            </a>
+<footer class="book-bg">
+    <div class="max-width-s m-auto pv-sm">
+        <div class="flex w100 justify-center">
+            {{ partial "logo.html" . }}
+        </div>
+        <div class="pv-md text-center cta-color">
+            <div class="pv-sm">Questions? Email us at:</div>
+            <div>
+                <a class="cta-color nav-item" href="mailto:{{ .Site.Params.contactEmail }}">
+                    {{ .Site.Params.contactEmail }}
+                </a>
+            </div>
         </div>
     </div>
 </footer>

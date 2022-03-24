@@ -8,8 +8,23 @@
     margin-bottom: var(--sm-space);
 }
 
+.mh-sm {
+    margin-top: var(--sm-space);
+    margin-bottom: var(--sm-space);
+}
+
 .ma-sm {
     margin: var(--sm-space);
+}
+
+.mv-md {
+    margin-top: var(--md-space);
+    margin-bottom: var(--md-space);
+}
+
+.mh-md {
+    margin-left: var(--md-space);
+    margin-right: var(--md-space);
 }
 
 .space-y-sm > * + * {

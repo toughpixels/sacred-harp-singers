@@ -3,7 +3,7 @@ title: Cooper Sacred Harp Books
 menu:
   main:
     name: Books
-    weight: 40
+    weight: 20
 ---
 
 ## Particular to Cooper Sacred Harp Stuff

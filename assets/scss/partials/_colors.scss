@@ -1,19 +1,19 @@
 :root {
-  --light: #fffcf2;
-  --gold: #dfc481;
-  --silver: #bfc1c2;
-  --red: #57292c;
-  --blue: rgb(1, 0, 78);
+  --neutral: #f9f9f9;
+  --cta: #c2c2c2;
+  --cta-modified: #888888;
+  --accent: #00357c;
+  --dark: #000c2f;
 }
 
 .book-bg {
-  background-color: var(--red);
+  background-color: var(--accent);
 }
 
 .light-bg {
   background-color: var(--light);
 }
 
-.gold {
-  color: var(--gold);
+.cta-color {
+  color: var(--cta);
 }

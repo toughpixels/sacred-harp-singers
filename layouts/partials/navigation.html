@@ -1,10 +1,14 @@
-<nav class="flex flex-wrap justify-around w100 nav-container">
-    {{ partial "logo.html" . }}
+<nav class="w100">
+    <div class="max-width-m m-auto">
+        {{ partial "logo.html" . }}
+    </div>
     {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-            <a class="mv-sm p-sm nav-item gold text-center
+    <div class="flex flex-wrap justify-around">
+        {{ range .Site.Menus.main }}
+            <a class="mv-sm p-sm nav-item cta-color text-center
             {{- if $currentPage.IsMenuCurrent "main" . }} nav-active{{- end }}" href="{{ .URL }}">
                 <span>{{ .Name }}</span>
             </a>
-    {{ end }}
+        {{ end }}
+    </div>
 </nav>

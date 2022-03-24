@@ -22,9 +22,6 @@
   padding-right: var(--md-space);
 }
 
-.py-sm {
-  padding: 1rem 0;
-  @media screen and (--sm) {
-    padding: 2rem 0;
-  }
+.p-md {
+  padding: var(--md-space);
 }
