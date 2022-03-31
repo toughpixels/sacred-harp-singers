@@ -10,6 +10,7 @@ menu:
     weight: 30
 ---
 There are two main ways we stay in touch:
+
  - An email list
  - Facebook groups
 
