@@ -3,8 +3,10 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <main class="max-width-m light-bg pv-md ph-sm m-auto">
-        {{- block "main" . }}{{- end }}
+        <main class="light-bg w-100">
+            <div class="max-width-m pv-md ph-sm m-auto">
+                {{- block "main" . }}{{- end }}
+            </div>
         </main>
         {{- partial "footer.html" . -}}
     </body>
