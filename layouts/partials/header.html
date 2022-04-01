@@ -1,3 +1,16 @@
 <header class="accent-bg w100">
-    {{- partial "navigation.html" . -}}
+    <nav class="w100 max-width-l pt-md">
+        <div class="max-width-m p-md m-auto">
+            {{ partial "logo.html" . }}
+        </div>
+        {{ $currentPage := . }}
+        <div class="flex flex-wrap justify-around">
+            {{ range .Site.Menus.main }}
+                <a class="mv-sm p-sm nav-item cta-color text-center
+                {{- if $currentPage.IsMenuCurrent "main" . }} nav-active{{- end }}" href="{{ .URL }}">
+                    <span>{{ .Name }}</span>
+                </a>
+            {{ end }}
+        </div>
+    </nav>
 </header>
