@@ -11,10 +11,10 @@ menu:
 ---
 There are two main ways we stay in touch:
 
- - An email list
+ - An [email list](https://groups.google.com/search?q=Seattle%20Sacred%20Harp)
  - Facebook groups
 
-Choose what's most covenient for you, or join both!
+Choose what's most covenient for you!
 
 ## Our Email List
 We have an email list (through Google Groups) that works as an announcements-only entity. It is called "Seattle Sacred Harp". Once a week, usually about mid-week, an email message is sent out listing out the next week's upcoming singings, updates for regularly scheduled singing, or announcements for special singing events. When one of our all-day singing weekends draws near, a couple additional messages are sent, mostly for the benefit of any newer memebers.

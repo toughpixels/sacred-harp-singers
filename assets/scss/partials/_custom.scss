@@ -3,16 +3,25 @@ nav {
     margin-right: auto;
 }
 
+.home-icon path {
+    fill: var(--cta);
+    stroke: var(--dark);
+    stroke-width: 1px;
+}
+
+.home-icon {
+    border-bottom: 1rem solid transparent;
+}
+
+.home-icon:hover path {
+    fill: var(--home);
+    stroke-width: 2px;
+}
+
 .nav-item {
     border-radius: var(--sm-space);
     font-size: var(--emphasis-text);
     color: var(--cta-modified);
-}
-
-.home-nav path {
-    fill: var(--cta);
-    stroke: var(--dark);
-    stroke-width: 1px;
 }
 
 .nav-item:hover, .nav-item:focus {
@@ -42,4 +51,20 @@ header::after, footer::after, footer::before {
 .logo {
     height: 100%;
     max-width: 100%;
+}
+
+main a {
+    color: var(--accent);
+}
+
+main p {
+    color: dark;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    text-decoration: underline;
 }
