@@ -1,19 +1,19 @@
 {{- define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1 class="text-center">{{ .Title }}</h1>
     <div>{{ .Content }}</div>
-    <ul>
-    {{ range .Pages }}
-        <li>
-            <div>
-                <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
-                <div class="di">
-                    {{ .Summary }}
-                </div>
-            </div>
-        </li>
-        {{ if . }}
-
+    {{ range .Sections }}
+        <h2 class="text-center">{{ .Title }}</h2>
+        <div>{{ .Summary }}</div>
+        <ul>
+        {{ with .Pages }}
+                {{ range . }}
+                <li>
+                    <div>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </div>
+                </li>
+                {{ end }}
         {{ end }}
+        </ul>
     {{ end }}
-    </ul>
 {{- end }}

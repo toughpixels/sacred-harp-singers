@@ -1,27 +1,21 @@
 {{- define "main" }}
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
-    {{ range .Sections }}
-        <h2>{{ .Title }}</h2>
-        <ul>
-        {{ with .Pages }}
-                {{ range . }}
-                <li>
-                    <div>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        <div class="di">&nbsp;</div>
-                        <div class="di">{{ .Summary }}</div>
-                    </div>
-                </li>
-                {{ end }}
-        {{ end }}
-        {{ with .Resources.Match "*.pdf" }}
-            {{ range . }}
-            <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
+    <ul>
+    {{ range .Pages }}
+        <li>
+            <div>
+                <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+                <div class="di">
+                    {{ .Summary }}
+                </div>
+            </div>
+            {{ if eq .Type "display-preview-content" }}
+                <div class="pv-sm">
+                    {{ .Content }}
+                </div>
             {{ end }}
-        {{ end }}
-        </ul>
+        </li>
     {{ end }}
+    </ul>
 {{- end }}
