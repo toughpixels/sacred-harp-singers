@@ -12,12 +12,12 @@ The Pacific Northwest Sacred Harp Singers, Incorporated was established as a non
 Its **Mission** is to organize, improve, expand, and encourage community shapenote singing in the Pacific Northwest through singing school classes, singings, and conventions. It serves as the umbrella organization for all shapenote singings in Washington State, and provides help as needed to shapenote singings in Oregon, Idaho, Montana, British Columbia, and Alaska.
 
 ## Officers & Board
-For the year 2020–2021 the officers are:
+For the year 2021–2022 the officers are:
 - Adam Berey, President
 - Kate Coxon, Vice President
 - David Wright, Secretary–Treasurer
-- Matthew MacLellan, member-at-large
-- Kathy Vlach, member-at-large
+- Gillian Inksetter, member-at-large
+- Marla Beth Elliott, member-at-large
 - Karen Willard, member-at-large
 
 
