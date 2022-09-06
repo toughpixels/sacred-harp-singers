@@ -4,6 +4,8 @@ title: Home of the Pacific Northwest Sacred Harp Singers
 
 We're an organization dedicated to Sacred Harp singing in Washington State (and a bit beyond). Sacred Harp singing is a traditional American form of community singing. It happens without instruments, in four vocal parts printed in shapenotes using the tunebook *The Sacred Harp*. Shapenotes means the musical noteheads appear as one of four different shapes (the simple oval, a square, a right-sided triangle, and a diamond).
 
+![Women Singing](womensinging.gif)
+
 *The Sacred Harp* was first published in 1844, it missed being the first to use the shapenote technique by about 46 years. Since then, it has been continuously in print.
 
 Any type, quality, or range of voice will find a comfortable and important place with us. If you are new to this and wondering what it is all about, feel free to drop by to listen or, better yet, to join in. Beginning singers are always welcome and musical reading ability is not a requirement.

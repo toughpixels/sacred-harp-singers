@@ -9,11 +9,9 @@ summary: All day singings are annual community functions. Lunch is served, trave
 
 All-Day Singing doors generally open to attendees at 9:00 a.m., and singing starts promptly at 9:30 a.m. There is a potluck meal at noon, called *Dinner-on-the-Ground*, (click here for more) and singing resumes at 1:00 p.m. Things wrap up about 2:30 or 3:00 p.m. each day. There is no admission charged (though a freewill offering is collected to pay the rent for the venue and the miscellaneous expenses of putting on the event), and anyone may wander in off the street to join us. Songbooks are available for loan, and for sale. There are also usually singing-related items for sale. Travellers are invited to arrange for housing with local singers - email us (see below).
 
-<details>
-<summary><h3 class="dib">3rd Sunday and Saturday before in February</h3></summary>
+#### 3rd Sunday and Saturday before in February
 
 The Pacific NW Convention-Washington will meet in 2020 at the Ballard Homestead, 6541 Jones Ave NW, Seattle 98117. This is a Denson Book convention. [explanation: the Pacific NW Convention has two sessions, one in the Fall and one in the Spring.] In 2020 for general questions send email to chair@PacificNWSacredHarpSingers.org and if you need to find housing with a local singer send email to conventionhousing@PacificNWSacredHarpSingers.org
-</details>
 
 ### Saturday before 2nd Sunday in April:
 
@@ -21,7 +19,8 @@ Bainbridge Island All-Day Singing on Bainbridge Island, WA at Seabold Hall, 1445
 
 If coming to the island from south of Seattle, it will most likely be fastest to drive onto the island from the west side Agate Pass Bridge.
 
-#### Housing
+
+####  Housing
 There will be primitive camping available at Kevin's place. Camping with bathrooms/showers is also available at nearby [Fay Bainbridge Park](http://biparks.org/fay-bainbridge-park-campground/ "Park details and directions"). Indoor housing options on the island are mostly limited to hotels or AirBnB. You might also be interested in staying overnight in Seattle with a local Seattle singer and ferrying across. Send all questions and suggestions to the chairman, Kevin Barrans.
 1st Sunday and Saturday before in May:
 Portland Double-All-Day met in 2019 at The Little Church, 5138 NE 23rd Ave. On Saturday the Denson book is used, and on Sunday The Christian Harmony is used.
