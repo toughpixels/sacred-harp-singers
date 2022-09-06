@@ -16,8 +16,6 @@ There are two main ways we stay in touch:
 
 Choose what's most covenient for you!
 
-![Feral Image](feral_kids.jpg)
-
 ## Our Email List
 We have an email list (through Google Groups) that works as an announcements-only entity. It is called "Seattle Sacred Harp". Once a week, usually about mid-week, an email message is sent out listing out the next week's upcoming singings, updates for regularly scheduled singing, or announcements for special singing events. When one of our all-day singing weekends draws near, a couple additional messages are sent, mostly for the benefit of any newer memebers.
 
