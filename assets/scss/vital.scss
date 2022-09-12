@@ -1,15 +1,15 @@
 @import "partials/reset";
 @import "partials/sr-only";
 
-@import "partials/colors";
 @import "partials/variables";
 @import "partials/padding";
 @import "partials/margin";
 @import "partials/text";
 @import "partials/sizing";
 @import "partials/flex";
-@import "partials/custom";
 @import "partials/display";
 
-@import "partials/btn_textInput";
+@import "custom";
+@import "colors";
+
 @import "partials/mobileMenuIcon";
