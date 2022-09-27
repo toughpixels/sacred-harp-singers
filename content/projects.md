@@ -4,14 +4,15 @@ menu:
   main:
     weight: 50
 ---
-## Local Music Camp
-PNWSHS is launching a Music Camp, to be held in 2018 in Alaska, the year after in the Seattle-Portland region, and in the year after that in the Oakland CA region. Then the schedule begins over again. The camp will teach and sing from the Cooper Sacred Harp with the typical sorts of teaching sessions on Rudiments, Leading, Accenting, Keying, All-Day Singing topics, and so forth. The specifics will be driven by the needs of the local region. For now, the title of the music camp is Fasola Boot Camp. (Alternative suggestions are solicited).
 
 ## Travel Grants
-Purpose:  to grow our local singings by having more of our singers experience the growth-spurt in understanding and skill that comes from Sacred Harp travel or immersive instruction. It is expected that the grantee will return willing to share all that they have learned with those in their local singing.
+
+### Purpose
+To grow our local singings by having more of our singers experience the growth-spurt in understanding and skill that comes from Sacred Harp travel or immersive instruction. It is expected that the grantee will return willing to *share all that they have learned* with those in their local singing.
 
 PNWSHS, Inc. has set a maximum amount of $400 per grant (and there is a limited budget so either not all applicants who are approved will receive the maximum or not all applicants will be accepted in a given year).
 
+### Apply
 To apply for the travel grant submit a statement explaining what singing event the applicant wishes to attend and when, calculate the cost of the trip and state what specific grant amount would make it possible, and how this travel will benefit the applicant and the local singing upon their return. This Statement should be sent either by email to pnwshs@pacificnwsacredharpsingers.org or to The Pacific NW Sacred Harp Singers, 15215 Tubbs Rd, Buckley WA 98321.
 
 ### Criteria:
@@ -24,21 +25,26 @@ To apply for the travel grant submit a statement explaining what singing event t
 1. Application Statements should be submitted at least two months prior to the event you wish to attend.
 1. Individuals will be granted no more than one travel grant per year.
 1. Current PNWSHS, Inc. board members and their families are ineligible to receive grants.
-10. The grants are given as reimbursements. Receipts or copies of the receipts are required for tuition or travel expenses at least up to the amount of the grant.
+1. The grants are given as reimbursements. Receipts or copies of the receipts are required for tuition or travel expenses at least up to the amount of the grant.
 
+
+#### Examples
 Here are two examples of trips that would meet the travel grant guidelines:
 
 - Attend Camp Fasola (adult) which ran June 8-12 and all-day singings on June 7, 8, 13, 14, and 15.
-Airfare round-trip from SEA to BHM travelling on the cheap days of June 5 & 16 = ~$500
-Camp Fasola tuition for under 30 yr old = $250
-Lodging before & after Camp and transportation in Alabama = will arrange to stay with locals and travel with locals
-Amount of travel grant requested: $250
+Airfare round-trip from SEA to BHM travelling on the cheap days of June 5 & 16 = ~$500.
+Camp Fasola tuition for under 30 yr old = $250.
+Lodging before & after Camp and transportation in Alabama = will arrange to stay with locals and travel with locals.
+Amount of travel grant requested: $250.
 Personal benefits will be instruction gained at Camp plus experience of 4+ different All-Day Singings.
 Benefit to PNWSHS will be a better-trained singer plus the chance that one or more travelling singers will come to our all-day singing(s) because this Washingtonian attended theirs.
 
 - Attend Chattahoochee Sacred Harp Convention that was Aug 2 & 3.
-Airfare round-trip from SEA to ATL travelling on cheap days of July 31 & Aug 4 = ~$377
-Lodging before & after and transportation in Atlanta = will arrange to stay with locals and travel with locals
-Amount of travel grant requested: $188
+Airfare round-trip from SEA to ATL travelling on cheap days of July 31 & Aug 4 = ~$377.
+Lodging before & after and transportation in Atlanta = will arrange to stay with locals and travel with locals,.
+Amount of travel grant requested: $188.
 Personal benefits will be singing with and absorbing from life-long prominent Sacred Harp singers while experiencing a historically important and still strong convention.
 Benefit to PNWSHS will be a more experienced singer and strengthened ties between our singing community here and the singing community in Georgia, that could potentially result in reciprocal visits from those singers to our convention.
+
+## Local Music Camp
+PNWSHS is launching a Music Camp, to be held in 2018 in Alaska, the year after in the Seattle-Portland region, and in the year after that in the Oakland CA region. Then the schedule begins over again. The camp will teach and sing from the Cooper Sacred Harp with the typical sorts of teaching sessions on Rudiments, Leading, Accenting, Keying, All-Day Singing topics, and so forth. The specifics will be driven by the needs of the local region. For now, the title of the music camp is Fasola Boot Camp. (Alternative suggestions are solicited).
