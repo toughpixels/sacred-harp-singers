@@ -9,7 +9,7 @@ menu:
 The Pacific Northwest Sacred Harp Singers, Incorporated was established as a non-profit corporation in Washington State on **27, October 1992**. It has also qualified as a state charity with the Secretary of State. It is *not* a 501(c)3 corporation with the IRS.
 
 ## Mission
-Its mission is to **organize, improve, expand, and encourage community shapenote singing** in the Pacific Northwest through singing school classes, singings, and conventions. It serves as the umbrella organization for all shapenote singings in Washington State, and provides help as needed to shapenote singings in Oregon, Idaho, Montana, British Columbia, and Alaska.
+Its mission is to *organize, improve, expand, and encourage community shapenote singing* in the Pacific Northwest through classes, singings, and conventions. It serves as the umbrella organization for all shapenote singings in Washington State, and provides help as needed in Oregon, Idaho, Montana, British Columbia, and Alaska.
 
 ## Officers & Board
 For the year 2021–2022 the officers are:
@@ -20,7 +20,9 @@ For the year 2021–2022 the officers are:
 - Marla Beth Elliott, member-at-large
 - Karen Willard, member-at-large
 
-From its beginning, *PNWSHS Inc.* has underwritten All-Day Singing expenses, often fronting the deposits needed for renting venues, and serving as a safety net should the freewill offering collected at the event not prove generous enough to cover all expenses. The two biggest expenses at all-day singing events are the rent for the venue, and the cost of enough loaner books for everyone. Since 1992 *PNWSHS Inc.* has shouldered this financial burden, for the all-day singings in Seattle, Buckley, Olympia, Portland, and Eugene. As these events have grown and matured, the need for underwriting by *PNWSHS Inc.* has diminished, making funds available for new events.
+From its beginning, *PNWSHS Inc.* has underwritten All-Day Singing expenses, often fronting the deposits needed for renting venues, and serving as a safety net should the freewill offering collected at the event not prove generous enough to cover all expenses. 
+
+The two biggest expenses at all-day singing events are the rent for the venue, and the cost of enough loaner books for everyone. Since 1992 *PNWSHS Inc.* has shouldered this financial burden, for the all-day singings in Seattle, Buckley, Olympia, Portland, and Eugene. As these events have grown and matured, the need for underwriting by *PNWSHS Inc.* has diminished, making funds available for new events.
 
 *PNWSHS Inc.* purchases Denson Sacred Harps and Cooper Sacred Harps, and makes them available for sale or for loan to any of the local monthly singings needing them. A supply of books is also always provided to the All-Day singings and conventions. Any start-up singing may approach PNWSHS and request help getting a supply of books.
 

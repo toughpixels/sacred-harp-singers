@@ -1,10 +1,12 @@
 :root {
-  --neutral: #f9f9f9;
-  --cta: #c2c2c2;
-  --cta-modified: #888888;
-  --home: darkcyan;
-  --accent: #522942;
-  --dark: #000c2f;
+  --neutral: #ffffff;
+  --cta: #b7b7b7;
+  --cta-modified: #8c9c92;
+  --subtle-accent: #be8a4a;
+  --home: #32575d;
+  --accent: #884344;
+  --dark: #4f7ca4;
+  --announcements: #e2d4c4;
 }
 
 .accent-bg {
@@ -17,4 +19,8 @@
 
 .cta-color {
   color: var(--cta);
+}
+
+.footer-link {
+  fill: var(--home);
 }

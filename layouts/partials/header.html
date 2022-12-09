@@ -13,4 +13,8 @@
             {{ end }}
         </div>
     </nav>
+    {{ $headless := .Site.GetPage "/announcements" }}
+    <div class="announcments text-center w100">
+        {{ $headless.Content }}
+    </div>
 </header>

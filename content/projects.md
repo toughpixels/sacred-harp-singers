@@ -8,16 +8,20 @@ menu:
 ## Travel Grants
 
 ### Purpose
-To grow our local singings by having more of our singers experience the growth-spurt in understanding and skill that comes from Sacred Harp travel or immersive instruction. It is expected that the grantee will return willing to *share all that they have learned* with those in their local singing.
+To grow our local singings by having more of our singers experience the growth-spurt in understanding and skill that comes from Sacred Harp travel or immersive instruction. It is expected that the grantee will return *willing to share all that they have learned* with those in their local singing.
 
 PNWSHS, Inc. has set a maximum amount of $400 per grant (and there is a limited budget so either not all applicants who are approved will receive the maximum or not all applicants will be accepted in a given year).
 
 ### Apply
-To apply for the travel grant submit a statement explaining what singing event the applicant wishes to attend and when, calculate the cost of the trip and state what specific grant amount would make it possible, and how this travel will benefit the applicant and the local singing upon their return. This Statement should be sent either by email to pnwshs@pacificnwsacredharpsingers.org or to The Pacific NW Sacred Harp Singers, 15215 Tubbs Rd, Buckley WA 98321.
+To apply for the travel grant:
+- Prepare a statement explaining what singing event the applicant wishes to attend and when.
+- Calculate the cost of the trip and state what specific grant amount would make it possible.
+- Write a statement describing how this travel will benefit the applicant and the local singing upon their return. 
+- Submit the information by email to [pnwshs@pacificnwsacredharpsingers.org](pnwshs@pacificnwsacredharpsingers.org) at least two months before the event.
 
 ### Criteria:
 1. Applicant must be a regular local singer in Washington state who wishes to travel outside of Washington state to sing. For the music camp held in Alaska, the applicant must reside in Alaska; for the Seattle-Portland region camp the applicant must reside in B.C, WA, or OR; for the Oakland region camp the applicant must reside in CA.
-1. Singing events must be at least one full day long: generally conventions, all day singings and Camp Fasola or Fasola Boot Camp.
+1. Eligable singing events must be at least one full day long: generally conventions, all day singings and Camp Fasola or Fasola Boot Camp.
 1. Financial Need. Grants are intended for singers who would otherwise find it difficult to travel. We do not investigate your financial situation.
 1. When possible we will give preference to singers who have not traveled extensively, and those who have not received a grant in the last year.
 1. Grants may be as low as $50 or up to $400.
@@ -47,4 +51,6 @@ Personal benefits will be singing with and absorbing from life-long prominent Sa
 Benefit to PNWSHS will be a more experienced singer and strengthened ties between our singing community here and the singing community in Georgia, that could potentially result in reciprocal visits from those singers to our convention.
 
 ## Local Music Camp
-PNWSHS is launching a Music Camp, to be held in 2018 in Alaska, the year after in the Seattle-Portland region, and in the year after that in the Oakland CA region. Then the schedule begins over again. The camp will teach and sing from the Cooper Sacred Harp with the typical sorts of teaching sessions on Rudiments, Leading, Accenting, Keying, All-Day Singing topics, and so forth. The specifics will be driven by the needs of the local region. For now, the title of the music camp is Fasola Boot Camp. (Alternative suggestions are solicited).
+PNWSHS launched the Fasola boot camp, held in [2018 in Alaska](http://sacredharpalaska.org/fasola_camp.html), with subsequent events planned acress the northwest. 
+
+The camp teaches and sings from the Cooper Sacred Harp  offering lessons on Rudiments, Leading, Accenting, Keying, All-Day Singing topics, and so forth. The specifics of the camp are driven by the needs of the local region.

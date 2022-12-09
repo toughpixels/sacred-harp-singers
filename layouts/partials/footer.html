@@ -1,15 +1,22 @@
 <footer class="accent-bg">
-    <div class="max-width-s m-auto pv-md ph-sm">
-        <div class="flex w100 justify-center p-md m-auto">
-            {{ partial "logo.html" . }}
+    <div class="pv-md text-center cta-color">
+        <div class="pv-sm">Questions? Email us at:</div>
+        <div class="pv-sm ph-sm">
+            <a class="cta-color nav-item" href="mailto:{{ .Site.Params.contactEmail }}">
+                {{ .Site.Params.contactEmail }}
+            </a>
         </div>
-        <div class="pv-md text-center cta-color">
-            <div class="pv-sm">Questions? Email us at:</div>
-            <div>
-                <a class="cta-color nav-item" href="mailto:{{ .Site.Params.contactEmail }}">
-                    {{ .Site.Params.contactEmail }}
-                </a>
-            </div>
+    </div>
+    <div class="max-width-s m-auto pv-md ph-sm">
+        <div class="flex w100 justify-around p-md m-auto">
+            <a href="/">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <title>Link to Home Page</title>
+                    <path d="M20 9v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9"/><path d="M9 22V12h6v10M2 10.6L12 2l10 8.6"/></svg>
+            </a>
+            <a href="/singing">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+            </a>
         </div>
     </div>
 </footer>

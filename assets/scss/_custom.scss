@@ -4,18 +4,13 @@ nav {
 }
 
 .home-icon path {
-    fill: var(--cta);
-    stroke: var(--dark);
+    fill: var(--home);
+    stroke: var(--subtle-accent);
     stroke-width: 1px;
 }
 
 .home-icon {
     border-bottom: 1rem solid transparent;
-}
-
-.home-icon:hover path {
-    fill: var(--home);
-    stroke-width: 2px;
 }
 
 .nav-item {
@@ -38,12 +33,10 @@ nav {
     color: var(--cta);
 }
 
-header::after, footer::after, footer::before {
+header::after, footer::after, footer::before, .announcments::before {
     content: "";
-    border-top: var(--sm-border) solid var(--cta);
-    border-bottom: var(--sm-border) solid var(--cta);
+    border-top: var(--sm-border) solid var(--cta-modified);
     background-color: var(--accent);
-    height: 1rem;
     width: 100%;
     display: block;
 }
@@ -68,4 +61,8 @@ h1, h2 {
 img {
     margin-left: auto;
     margin-right: auto;
+}
+
+.announcments {
+    color: var(--announcements);
 }

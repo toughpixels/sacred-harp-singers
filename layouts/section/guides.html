@@ -10,7 +10,11 @@
                 <li>
                     <div>
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        {{ with .Summary }}
+                            <span>{{ . }}</span>
+                        {{ end }}
                     </div>
+
                 </li>
                 {{ end }}
         {{ end }}

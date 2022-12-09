@@ -9,6 +9,7 @@
                 <div class="di">
                     {{ .Summary }}
                 </div>
+                {{ partial "calendar" .Params.calendarId }}
             </div>
             {{ if eq .Type "display-preview-content" }}
                 <div class="pv-sm">

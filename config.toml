@@ -2,16 +2,16 @@ baseURL = "https://pacificnwsacredharpsingers.netlify.app/"
 languageCode = "en-us"
 title = "Pacific Northwest Sacred Harp Singers"
 theme = "base"
+summaryLength = 30
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 [params]
-  description = "Sacred Harp Singing in the Pacific Northwest."
+  description = "We organize and encourage community shapenote singing in the Pacific Northwest through singing school classes, singings, and conventions. All are welcome."
   title = "Pacific Northwest Sacred Harp Singers"
   shortTitle = "PCNWSHS"
   contactEmail = "PNWSHS@PacificNWsacredharpsingers.org"
-  headerImage  = "images/header.png"
   author = "Tough Pixels"
   imageSizes = "1280 768 640 320"
   imageFormats = "webp jpeg"
