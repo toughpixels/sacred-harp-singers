@@ -5,7 +5,7 @@ aliases:
 menu: guides
 summary: Are these the same as “practice singings”?
 ---
-### and how does one differ from the All-Day Singings?
+### How does one differ from the All-Day Singings?
 
 The first thing is obvious: these singings last only 2 hours or so, rather than all day, and they recur monthly rather than annually. Usually those who attend are drawn from the immediate geographic area, rather than from all over as for the big annual all-day singings. Loaner books are always available at these singings, so visitors and the merely curious may drop in and find out what the singing is like without making an investment in a book.
 

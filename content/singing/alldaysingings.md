@@ -21,9 +21,7 @@ Bainbridge Island All-Day Singing on Bainbridge Island, WA at Seabold Hall, 1445
 If coming to the island from south of Seattle, it will most likely be fastest to drive onto the island from the west side Agate Pass Bridge.
 
 ###  Housing
-There will be primitive camping available at Kevin's place. Camping with bathrooms/showers is also available at nearby [Fay Bainbridge Park](http://biparks.org/fay-bainbridge-park-campground/ "Park details and directions"). Indoor housing options on the island are mostly limited to hotels or AirBnB. You might also be interested in staying overnight in Seattle with a local Seattle singer and ferrying across. Send all questions and suggestions to the chairman, Kevin Barrans.
-1st Sunday and Saturday before in May:
-Portland Double-All-Day met in 2019 at The Little Church, 5138 NE 23rd Ave. On Saturday the Denson book is used, and on Sunday The Christian Harmony is used.
+There will be primitive camping available at Kevin's place. Camping with bathrooms/showers is also available at nearby [Fay Bainbridge Park](http://biparks.org/fay-bainbridge-park-campground/ "Park details and directions"). Indoor housing options on the island are mostly limited to hotels or AirBnB. You might also be interested in staying overnight in Seattle with a local Seattle singer and ferrying across. Send all questions and suggestions to the chairman, Kevin Barrans. On Saturday the Denson book is used, and on Sunday The Christian Harmony is used.
 
 ## Saturday before 1st Sunday in June:
 

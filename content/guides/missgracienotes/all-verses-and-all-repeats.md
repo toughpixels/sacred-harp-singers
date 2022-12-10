@@ -1,14 +1,18 @@
 ---
 title: "All Verses and All Repeats"
 aliases:
-    - /guidestutorials/AllVersesRepeats.html
+  - /guidestutorials/AllVersesRepeats.html
 menu: guides
 ---
+
 ### Dear Miss Grace Notes:
- My favorite song has several verses and when I lead it, I hate to leave any of them out. Lately at conventions I have noticed that some people seem to be irritated when others sing all the verses to a song or take all repeats. I thought everyone was supposed to respect the leader's right to sing whatever and however he or she wants?
+
+My favorite song has several verses and when I lead it, I hate to leave any of them out. Lately at conventions I have noticed that some people seem to be irritated when others sing all the verses to a song or take all repeats. I thought everyone was supposed to respect the leader's right to sing whatever and however he or she wants?
+
 #### Wants All of 146
 
-##### Gentle Singer: 
+##### Gentle Singer:
+
 Miss Grace Notes sympathizes with your feelings. While going about her chores, she often adds multiple repeats to her favorite songs. She nevertheless recognizes that such indulgences on her own time might be inappropriate in group convention situations.
 If you are talking about three verses to a short song, a repeat on the last, why then we have no issue here. But Miss Grace Notes guesses that you have something more in mind. Sacred Harp singing, as your question suggests, is a democratic institution. The leader's space, however, should not be equated with the Senate floor in filibuster.
 Miss Grace Notes agrees that as the leader you have the right to set the way the song is to proceed. But she will not tell you that you can make everyone like it. Just as the class has a responsibility to follow the leader's choice and direction, the leader has a responsibility not to induce tedium.
