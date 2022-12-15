@@ -4,7 +4,6 @@ menu:
   singing:
     name: All Day Singing
 weight: 2
-calendarId: 6c46c6a75df3eeb8c97a490446fd5b59fba72006fbce98de2461676081eca9f7@group.calendar.google.com
 summary: All day singings are annual community functions. Lunch is served, travellers are made very welcome and old friends are well met.
 ---
 

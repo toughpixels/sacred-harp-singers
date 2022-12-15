@@ -2,7 +2,8 @@
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
     <ul>
-    {{ range .Pages }}
+    {{ range .Paginator.Pages }}
+    {{.}}
         <li>
             <div>
                 <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>

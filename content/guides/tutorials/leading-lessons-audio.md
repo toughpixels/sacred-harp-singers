@@ -3,16 +3,16 @@ title: "Leading Lessons Audio"
 aliases:
     - /guidestutorials/LeadingLessonAudio.html
 menu: guides
+sumnmary: Trom the February 2012 PNW Convention-Washington session.
 ---
 
 ## February 2012 Leading Lesson Audio
-We apologize for the weakness of the audio, and that the one hour long Lesson is broken up into three segments. But if you can ignore these two problems, you will find tips and instruction in leading at an all-day singing not found elsewhere. The teachers in the Lesson were David Wright, Karen Willard, and Erika Wilson. The Lesson was moderated by Karen Willard.
+We apologize for the weakness of the audio, and that the one hour long lesson is broken up into three segments. But if you can ignore these two problems, you will find tips and instruction in leading at an all-day singing not found elsewhere. The teachers in the lesson were David Wright, Karen Willard, and Erika Wilson. The lesson was moderated by Karen Willard.
 
-Darlene Simpson-Brown, the chair in 2012, had the idea for this special Lesson and gets all the credit for making it happen.
+Darlene Simpson-Brown, the chair in 2012, had the idea for this special lesson and gets all the credit for making it happen.
 
-Segment 1
+{{< audio "/audio/LeadingLessonSegment1.mp3" "Session One" >}}
 
-Segment 2
+{{< audio "/audio/LeadingLessonSegment2.mp3" "Session Two" >}}
 
-Segment 3
-
+{{< audio "/audio/LeadingLessonSegment3.mp3" "Session Three" >}}

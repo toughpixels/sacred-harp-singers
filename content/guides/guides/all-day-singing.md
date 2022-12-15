@@ -5,7 +5,9 @@ aliases:
 menu: guides
 summary: You've been wanting to know, right?
 ---
-Folks gather at the selected site, early enough to fill out a registration card and greet old friends before the start time, which is often 9:30 am thus folks begin to gather at about 9:00 am, then seat themselves in one of four sections: tenor (which is the melody part sung by both men and women), treble (a high harmony part sung by both men and women), alto, or bass. Sacred Harp is sung with a "hollow square" arrangement in which these parts all face the middle. (see picture)
+Folks gather at the selected site, early enough to fill out a registration card and greet old friends before the start time, which is often 9:30 am thus folks begin to gather at about 9:00 am, then seat themselves in one of four sections: tenor (which is the melody part sung by both men and women), treble (a high harmony part sung by both men and women), alto, or bass. Sacred Harp is sung with a "hollow square" arrangement in which these parts all face the middle.
+
+![Hollow Square Singing Arrangment](/img/hollowsquare.gif)
 
 A chairman, or two co-chairs, will welcome everyone, and after the chaplain for the day has led everyone in an opening prayer, the singing commences! Everyone has their own copy of either *The Sacred Harp* (1991 Denson edition) or *The Sacred Harp* (2012 Cooper Revision) or a loaner copy picked up at the registration table near the door. Each all-day singing will have chosen in advance which book they use.
 

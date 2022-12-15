@@ -1,9 +1,9 @@
 <figure>
-    <figcaption>TK Caption</figcaption>
+    <figcaption>{{ .Get 1 }}</figcaption>
     <audio
         controls
-        src="/media/cc0-audio/t-rex-roar.mp3">
-            <a href="/media/cc0-audio/t-rex-roar.mp3">
+        src="{{ .Get 0 }}">
+            <a href="{{ .Get 0 }}">
                 Download audio
             </a>
     </audio>

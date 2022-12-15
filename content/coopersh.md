@@ -7,13 +7,13 @@ menu:
 ---
 
 ## Books
-The [Sacred Harp Book Company](http://www.sacredharpbook.com/) offers books to order, and has an [excellent list](http://www.sacredharpbook.com/calendar-of-singings/) of singing opportinities in the Southest.
+The [Sacred Harp Book Company](http://www.sacredharpbook.com/) offers books to order, and has an [excellent list](http://www.sacredharpbook.com/calendar-of-singings/) of singing opportinities in the Southeast.
 
 ## Buying Books
 We have books available for sale at all day singings, and can happy arrange to bring them to any other event. Bring a check or cash or credit card to the singing -- the price to you is the same whether here or there -- warn us via email which books to bring for you and to bring the SquareUp device for your credit card.
 
 ## Bass Runs
-A very few of the songs in the 2012 Cooper SH have "gospelly" runs shown in the music. But we've all been to singings where the basses do something not in the book. [Here are five.](/BassRunSongs.pdf) "Sheet music with bass parts")
+A very few of the songs in the 2012 Cooper SH have "gospelly" runs shown in the music. But we've all been to singings where the basses do something not in the book. [Here are five.](/BassRunSongs.pdf "Sheet music with bass parts")
 
 ![One Way To Key Parting Friends](img/Keying377PartingFriends.jpg)
 

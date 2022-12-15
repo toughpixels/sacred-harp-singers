@@ -66,3 +66,12 @@ img {
 .announcments {
     color: var(--announcements);
 }
+
+.footer-icon {
+    fill: none;
+    stroke: var(--home);
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    height: 4rem;
+}

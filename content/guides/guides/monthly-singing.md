@@ -7,6 +7,8 @@ summary: Are these the same as “practice singings”?
 ---
 ### How does one differ from the All-Day Singings?
 
+![Two men singing from Sared Harp tunebooks](/img/jackson1.gif)
+
 The first thing is obvious: these singings last only 2 hours or so, rather than all day, and they recur monthly rather than annually. Usually those who attend are drawn from the immediate geographic area, rather than from all over as for the big annual all-day singings. Loaner books are always available at these singings, so visitors and the merely curious may drop in and find out what the singing is like without making an investment in a book.
 
 The monthly singings employ either the Denson Sacred Harp or the Cooper Sacred Harp. Occasionally other shapenote books will be sung from. Monthly singings are also the place for local composers to try out their compositions with the class.
