@@ -7,7 +7,7 @@ summary: The Miss Grace Notes advice column dealt with the questions of loud sin
 
 After Northerners had incubated for varying lengths of time in small living room-style singings, they began to venture out to all-day singings and conventions, and discovered to their astonishment the need to acquire an entire new set of behaviors and to learn new etiquette rules. Riding to their rescue (demurely side-saddle, of course), came the ever-helpful Miss Grace Notes, well-experienced in ordering to better effect the lives of Sacred Harp singers.
 
-![Manners' Matters: Miss Gracie Notes' Advice on All things Sacred Harp](AdviceColumnTitle.jpg)
+![Manners' Matters: Miss Grace Notes' Advice on All things Sacred Harp](AdviceColumnTitle.jpg)
 
 Published at first in the Chicago Sacred Harp newsletter, and increasingly syndicated to others around the nation, the Miss Grace Notes advice column dealt with the questions of loud singing, mixed marriages, and the mysteries of the arranging committee, among other topics.
 

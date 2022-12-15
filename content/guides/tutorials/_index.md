@@ -14,11 +14,11 @@ resources:
 - title: A List of Minor Songs
   src: MinorSixths.pdf
   params:
-    description: This is a handy list of the *Denson Sacred Harp songs that are minor and include the sixth note of the minor scale somewhere in the parts. It identifies which staff position the note is on and in which part it appears.
+    description: This is a handy list of the Denson Sacred Harp songs that are minor and include the sixth note of the minor scale somewhere in the parts. It identifies which staff position the note is on and in which part it appears.
 - title: Minor Songs and Accidentals
   src: MinorandAccidentalsUpdated.pdf
   params:
-    description: This is a collection of the reasons for not singing accidentals that are printed in the music and why we sing minor songs with a raised 6th. This topic is included in the Singing School Workbook, but not as thoroughly as here. PDF. *Cooper Sacred Harp minor songs are sung the same way, they're just not in this list.
+    description: This is a collection of the reasons for not singing accidentals that are printed in the music and why we sing minor songs with a raised 6th. This topic is included in the Singing School Workbook, but not as thoroughly as here. Cooper Sacred Harp minor songs are sung the same way, they're just not in this list.
 - title: Major Key Songs To Be Wary Of
   src: SHMajorSongProbs.pdf
   params:

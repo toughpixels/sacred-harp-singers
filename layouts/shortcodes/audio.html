@@ -1,10 +1,6 @@
 <figure>
-    <figcaption>{{ .Get 1 }}</figcaption>
-    <audio
-        controls
-        src="{{ .Get 0 }}">
-            <a href="{{ .Get 0 }}">
-                Download audio
-            </a>
-    </audio>
+  <figcaption class="text-center">{{ .Get 1 }}</figcaption>
+  <audio controls class="auto" src="{{ .Get 0 }}">
+    <a href="{{ .Get 0 }}"> Download audio </a>
+  </audio>
 </figure>

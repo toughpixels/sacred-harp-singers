@@ -16,24 +16,17 @@ nav {
 .nav-item {
     border-radius: var(--sm-space);
     font-size: var(--emphasis-text);
-    color: var(--cta-modified);
 }
 
 .nav-item:hover, .nav-item:focus {
-    color: var(--cta);
     background-color: var(--dark);
-}
-
-.nav-item:visited {
-    color: var(--cta);
 }
 
 .nav-active {
     background-color: var(--dark);
-    color: var(--cta);
 }
 
-header::after, footer::after, footer::before, .announcments::before {
+header::after, footer::after, footer::before, .announcements::before {
     content: "";
     border-top: var(--sm-border) solid var(--cta-modified);
     background-color: var(--accent);
@@ -63,7 +56,7 @@ img {
     margin-right: auto;
 }
 
-.announcments {
+.announcements-color {
     color: var(--announcements);
 }
 

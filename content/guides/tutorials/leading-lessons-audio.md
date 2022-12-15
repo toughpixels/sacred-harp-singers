@@ -3,7 +3,7 @@ title: "Leading Lessons Audio"
 aliases:
     - /guidestutorials/LeadingLessonAudio.html
 menu: guides
-sumnmary: Trom the February 2012 PNW Convention-Washington session.
+summary: From the February 2012 PNW Convention-Washington session.
 ---
 
 ## February 2012 Leading Lesson Audio

@@ -30,3 +30,8 @@
 .space-y-sm > * + * {
     margin-top: 1rem;
 }
+
+.auto {
+    margin-left: auto;
+    margin-right: auto;
+}
