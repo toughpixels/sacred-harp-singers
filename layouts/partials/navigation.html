@@ -1,0 +1,9 @@
+{{ $currentPage := . }}
+<div class="flex flex-wrap justify-around">
+    {{ range .Site.Menus.main }}
+        <a class="mv-sm p-sm nav-item cta-color text-center
+        {{- if $currentPage.IsMenuCurrent "main" . }} nav-active{{- end }}" href="{{ .URL }}">
+            <span>{{ .Name }}</span>
+        </a>
+    {{ end }}
+</div>
