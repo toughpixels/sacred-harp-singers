@@ -17,7 +17,7 @@ To apply for the travel grant:
 - Prepare a statement explaining what singing event the applicant wishes to attend and when.
 - Calculate the cost of the trip and state what specific grant amount would make it possible.
 - Write a statement describing how this travel will benefit the applicant and the local singing upon their return. 
-- Submit the information by email to [pnwshs@pacificnwsacredharpsingers.org](pnwshs@pacificnwsacredharpsingers.org) at least two months before the event.
+- Submit the information by email to [pnwshs@pacificnwsacredharpsingers.org](mailto:pnwshs@pacificnwsacredharpsingers.org) at least two months before the event.
 
 ### Criteria:
 1. Applicant must be a regular local singer in Washington state who wishes to travel outside of Washington state to sing. For the music camp held in Alaska, the applicant must reside in Alaska; for the Seattle-Portland region camp the applicant must reside in B.C, WA, or OR; for the Oakland region camp the applicant must reside in CA.
