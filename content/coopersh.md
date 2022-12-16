@@ -33,4 +33,4 @@ Many songs gained one or more verses, to the great pleasure of singers who have 
 
 ## Tune Comparisons Between the 1991 Denson and the 2012 Cooper Edition
 
-The quite clever singers in Texas have produced a [comparison list](http://resources.texasfasola.org/tunecomparisonindex.html) looking at the latest editions of the Denson Sacred Harp and the Cooper Sacred Harp, for the tunes that the two books have in common.
+The quite clever [singers in Texas](http://texasfasola.org/) have produced a [comparison list](http://resources.texasfasola.org/tunecomparisonindex.html) looking at the latest editions of the Denson Sacred Harp and the Cooper Sacred Harp, for the tunes that the two books have in common.

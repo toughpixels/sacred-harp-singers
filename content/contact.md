@@ -11,7 +11,7 @@ menu:
 ---
 There are two main ways we stay in touch:
 
- - An [email list](https://groups.google.com/search?q=Seattle%20Sacred%20Harp)
+ - An [email list](https://groups.google.com/search?q=Seattle%20Sacred%20Harp&inOrg=false)
  - Facebook groups
 
 Choose what's most covenient for you!
