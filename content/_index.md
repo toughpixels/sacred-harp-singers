@@ -1,5 +1,9 @@
 ---
 title: Home of the Pacific Northwest Sacred Harp Singers
+menu:
+  main:
+    name: Home
+    weight: 1
 ---
 
 We're dedicated to Sacred Harp singing in **Washington State** and a bit beyond! 
